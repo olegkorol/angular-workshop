@@ -6,7 +6,10 @@
 		"module": "commonjs",
 		"sourceMap": true,
 		"noImplicitAny": true,
-         "types": ["node"]
+          "types": [
+            "node",
+            "jasmine"
+          ]
 	},
 	"exclude": [
 		"node_modules",
