@@ -8,7 +8,8 @@
 		"noImplicitAny": true,
           "types": [
             "node",
-            "jasmine"
+            "jasmine",
+            "angular-mocks"
           ]
 	},
 	"exclude": [
